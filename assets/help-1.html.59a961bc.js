@@ -1,0 +1,1 @@
+const e={key:"v-5cafeb02",path:"/help/help-1.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:3,title:"help-1 page",slug:"help-1-page",children:[]}],git:{updatedTime:1654477918e3,contributors:[{name:"wangyong16",email:"wangyong16@xiaomi.com",commits:1}]},filePathRelative:"help/help-1.md"};export{e as data};

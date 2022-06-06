@@ -1,0 +1,1 @@
+const e={key:"v-fffb8e28",path:"/guide/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:3,title:"getting started readme",slug:"getting-started-readme",children:[]}],git:{updatedTime:1654410616e3,contributors:[{name:"wangyong16",email:"wangyong16@xiaomi.com",commits:1}]},filePathRelative:"guide/README.md"};export{e as data};
